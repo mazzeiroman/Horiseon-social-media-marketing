@@ -17,9 +17,8 @@ README.md
 ```
 ## Code Refactor
 
-```
 Added the use of flexboxes, fixed the link for "search-engine-optimization" id, utilization of semantic HTML elements, alt elements on all the images, changed the title to a more concise and descriptive one, commented on what every block of code does in the web page.
-```
+
 ## Credits
 
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
